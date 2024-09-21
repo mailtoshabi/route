@@ -1,0 +1,12 @@
+.pagination-wrapper nav {
+    background-color: unset;
+    z-index: 100;
+}
+
+small.no-decoration {
+text-decoration: none !important;
+}
+
+.product .title:before {
+    z-index: 0;
+}

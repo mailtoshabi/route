@@ -1,0 +1,30 @@
+body[data-topbar=dark] #page-topbar, body[data-topbar=dark] .navbar-brand-box {
+    background-color: #1c84ee;
+    border-color: #1c84ee;
+}
+
+.customer_ticket.email-rightbar {
+    margin-left: 0px;
+}
+
+.test {
+
+}
+
+#fileContainer {
+    position: relative;
+}
+
+#fileContainer button {
+    position: absolute;
+    top: 8px;
+    right: 10px;
+}
+
+img.thumb_image {
+    width: 100px;
+}
+
+.table_min_height {
+    min-height: 220px;
+}

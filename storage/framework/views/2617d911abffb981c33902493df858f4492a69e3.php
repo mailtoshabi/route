@@ -1,0 +1,2 @@
+<?php echo $__env->make('admin.orders.index', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php /**PATH C:\xampp\htdocs\admin_template\resources\views/admin/customers/orders.blade.php ENDPATH**/ ?>
