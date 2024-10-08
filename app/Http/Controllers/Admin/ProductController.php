@@ -87,7 +87,7 @@ class ProductController extends Controller
         //             $product->rentTerms()->attach($rent_termId,['price'=>request('prices')[$index]]);
         //         }
         //     }
-        // }
+        // } //
 
         return redirect()->route('admin.products.index')->with(['success'=>'New Product Added Successfully']);
     }
